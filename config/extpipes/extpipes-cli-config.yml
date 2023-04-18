@@ -45,8 +45,8 @@ rawdbs:
                 - source: csv
                   schedule: On trigger
                   contacts:
-                      - name: Atiq
-                        email: atiqah09@gmail.com
+                      - name: [Atiq]
+                        email: [atiqah09@gmail.com]
                         role: Bootcamp 67 Administrator
                         send-notification: false
     - rawdb-name: src:002:opcua:db
@@ -61,7 +61,7 @@ rawdbs:
                 - source: ice-cream-api
                   schedule: On trigger
                   contacts:
-                      - name: Atiq
-                        email: atiqah09@gmail.com
+                      - name: [Atiq]
+                        email: [atiqah09@gmail.com]
                         role: Bootcamp 67 Administrator
                         send-notification: false
